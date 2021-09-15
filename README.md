@@ -33,7 +33,14 @@ Sometimes it's useful to have different levels of headings to structure your doc
 
 ### This is a third-tier heading
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+You can use one `#` all the way up to `######` six for different heading sizes:
+
+# one
+## two
+### three
+#### four
+##### five
+###### six
 
 If you'd like to quote someone, use the > character before the line:
 
