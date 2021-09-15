@@ -1,7 +1,8 @@
 # 3E
 Repository per i lavori della 3E
 
-Esempi di markdown dal sito https://guides.github.com/features/mastering-markdown/
+Esempi di markdown da utilizzare nel file README.md per migliorarne la leggibilità
+(dal sito https://guides.github.com/features/mastering-markdown/)
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
