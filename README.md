@@ -35,7 +35,7 @@ Sometimes it's useful to have different levels of headings to structure your doc
 
 You can use one `#` all the way up to `######` six for different heading sizes:
 
-# one
+# one #
 ## two
 ### three
 #### four
@@ -79,4 +79,4 @@ But I have to admit, tasks lists are my favorite:
 
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
-And, of course emoji!
+And, of course emoji! :grinning: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
