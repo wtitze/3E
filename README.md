@@ -36,11 +36,11 @@ Sometimes it's useful to have different levels of headings to structure your doc
 You can use one `#` all the way up to `######` six for different heading sizes:
 
 # one \#
-## two \#'s
-### three \#'s
-#### four \#'s
-##### five \#'s
-###### six \#'s
+## two \#s
+### three \#s
+#### four \#s
+##### five \#s
+###### six \#s
 
 If you'd like to quote someone, use the > character before the line:
 
